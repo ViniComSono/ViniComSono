@@ -22,58 +22,28 @@
 
 ## 💻 Meu código em uma constante
 
-```javascript
-const Vinicius = {
+```java
+public class Vinicius {
 
-    role: "Computer Science Student",
+    private final String role = "Backend Developer";
 
-    location: "São Paulo - Brazil",
-
-    code: [
-        "Java",
-        "Spring Boot",
-        "SQL"
-    ],
-
-    currentlyLearning: [
-        "Spring Security",
-        "Docker",
-        "JWT",
-        "Design Patterns"
-    ],
-
-    backend: {
-        framework: "Spring Boot",
-        persistence: [
+    private final List<String> stack = List.of(
+            "Java",
+            "Spring Boot",
+            "Spring Security",
             "JPA",
-            "Hibernate"
-        ],
-        api: "REST"
-    },
+            "Hibernate",
+            "MySQL",
+            "Docker"
+    );
 
-    databases: [
-        "MySQL",
-        "PostgreSQL"
-    ],
+    public void code() {
+        learn();
+        build();
+        improve();
+        repet();
+    }
 
-    tools: [
-        "Git",
-        "Docker",
-        "Postman",
-        "IntelliJ IDEA"
-    ],
-
-    architecture: [
-        "DTO",
-        "Dependency Injection",
-        "Repository Pattern",
-        "Clean Architecture"
-    ],
-
-    currentProject: "Gym Management System",
-
-    lifePhilosophy:
-        "Code. Learn. Improve. Repeat."
 }
 ```
 
@@ -86,6 +56,8 @@ const Vinicius = {
 <p>
 
 <img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
 
 <img src="https://skillicons.dev/icons?i=js"/>
 
@@ -117,6 +89,8 @@ const Vinicius = {
 
 <p>
 
+<img src="https://skillicons.dev/icons?i=github"/>
+
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=docker"/>
@@ -129,112 +103,9 @@ const Vinicius = {
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribuições
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=10&no-frame=true"/>
-
-</p>
-
----
-
-# 📌 Projetos em destaque
-
-### 🏋️ Gym Management System
-
-Sistema completo para gerenciamento de academias.
-
-✔ Cadastro de alunos
-
-✔ Avaliação física
-
-✔ Treinos
-
-✔ Spring Boot
-
-✔ JPA/Hibernate
-
-✔ MySQL
-
----
-
-### 📚 Estudos Java
-
-Repositório contendo exercícios de:
-
-- Programação Orientada a Objetos
-
-- Collections
-
-- Streams
-
-- Lambda
-
-- Generics
-
-- JDBC
-
----
-
-# 📫 Contato
-
-<p>
-
-<a href="https://linkedin.com/in/SEU_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue"/>
 
 </p>
 
-<h3 align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</h3>
