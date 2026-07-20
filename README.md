@@ -73,6 +73,18 @@ public class Vinicius {
 
 </p>
 
+### Front-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
 ### Banco de Dados
 
 <p>
@@ -94,6 +106,8 @@ public class Vinicius {
 <img src="https://skillicons.dev/icons?i=docker"/>
 
 <img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 <img src="https://skillicons.dev/icons?i=postman"/>
 
