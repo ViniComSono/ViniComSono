@@ -18,7 +18,7 @@
 
 ---
 
-## 💻 Meu código em uma constante
+## 💻 Meu código
 
 ```java
 public class Vinicius {
@@ -49,33 +49,15 @@ public class Vinicius {
 
 # 🚀 Tecnologias
 
-### Linguagens
-
 <p>
-
+    
 <img src="https://skillicons.dev/icons?i=java"/>
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
 <img src="https://skillicons.dev/icons?i=js"/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-</p>
-
-### Back-end
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=hibernate"/>
-
-</p>
-
-### Front-end
-
-<p>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
@@ -83,33 +65,11 @@ public class Vinicius {
 
 <img src="https://skillicons.dev/icons?i=bootstrap"/>
 
-</p>
-
-### Banco de Dados
-
-<p>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-</p>
-
-### Ferramentas
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=github"/>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
 
 </p>
 
