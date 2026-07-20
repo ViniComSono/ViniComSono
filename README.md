@@ -14,8 +14,6 @@
 
 - 🎓 Ciência da Computação
 - ☕ Focado em Java e Spring Boot
-- 📚 Atualmente estudando Spring Security, JWT e Docker
-- 🏋️ Desenvolvendo um sistema completo para academias
 - 🎯 Objetivo: me tornar Desenvolvedor Back-end Java
 
 ---
