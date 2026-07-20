@@ -39,7 +39,7 @@ public class Vinicius {
         learn();
         build();
         improve();
-        repet();
+        repeat();
     }
 
 }
