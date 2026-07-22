@@ -1,15 +1,8 @@
 
-
-- 🎓 Ciência da Computação
-- ☕ Focado em Java e Spring Boot
-- 🎯 Objetivo: me tornar Desenvolvedor Back-end Java
-
-
-
 ```java
 public class Vinicius {
 
-    private final String role = "Backend Developer";
+    private final String role = "Back-end Developer";
 
     private final List<String> stack = List.of(
             "Java",
@@ -19,6 +12,13 @@ public class Vinicius {
             "Hibernate",
             "MySQL",
             "Docker"
+    );
+
+    private final String college = "Computer Science";
+
+    private final List<String> languages = List.of(
+            "Portuguese",
+            "English"
     );
 
     public void code() {
@@ -62,4 +62,3 @@ public class Vinicius {
 <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue"/>
 
 </p>
-
